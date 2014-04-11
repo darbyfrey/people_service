@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.vagrant
+.rspec
+log/*
+tmp/*
+coverage
+!.keep
